@@ -12,5 +12,4 @@ $ yarn
 $ yarn start
 ```
 
-
 This opens the applicaton on http://localhost:3000
